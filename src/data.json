@@ -1,7 +1,0 @@
-{
-  "email": "test@example.com",
-  "password": "abc123$%^",
-  "first_name": "John",
-  "last_name": "Doe",
-  "picture": "https://example.com/john.jpg"
-}
