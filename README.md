@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # JSON Schema for PHP
 
 [![Build Status](https://travis-ci.org/justinrainbow/json-schema.svg?branch=master)](https://travis-ci.org/justinrainbow/json-schema)
@@ -51,3 +52,6 @@ if ($validator->isValid()) {
 ## Running the tests
 
     $ vendor/bin/phpunit
+=======
+# -json-schema-for-trip-api
+>>>>>>> 963735dbd801c1c8cec0483f649de6436f0d3dc3
