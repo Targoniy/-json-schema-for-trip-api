@@ -36,7 +36,8 @@
         }
     }],
     "require": {
-        "php": ">=5.3.3"
+        "php": ">=5.3.3",
+        "justinrainbow/json-schema": "~2.0"
     },
     "require-dev": {
         "json-schema/JSON-Schema-Test-Suite": "1.2.0",
